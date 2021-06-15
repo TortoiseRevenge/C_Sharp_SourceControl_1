@@ -7,6 +7,8 @@ namespace C_Sharp_SourceControl_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Andrew, BC, idk");
+            
         }
     }
 }
